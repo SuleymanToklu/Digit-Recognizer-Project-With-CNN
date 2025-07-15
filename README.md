@@ -50,6 +50,6 @@ The developed model achieved a high accuracy score on the validation set, demons
 
 * **Version 1 (Trained for 20 Epochs):**
     * **Validation Accuracy:** Approximately **99.428%**
-    * **Kaggle Public Leaderboard Score/Rank:** [** 0.99428  Score/ 159 Rank **]
+    * **Kaggle Public Leaderboard Score/Rank:** 0.99428  Score/ 159 Rank
 
 Further improvements could be achieved by training for more epochs, fine-tuning hyperparameters, or using a more complex architecture.
